@@ -41,50 +41,50 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBOppMSb0IcfmC72WeDO6RzXuNpMsrf-Po',
-    appId: '1:1021425447109:web:56127ff71eca85f46cc0ac',
-    messagingSenderId: '1021425447109',
-    projectId: 'flutter-prep-25de4',
-    authDomain: 'flutter-prep-25de4.firebaseapp.com',
-    databaseURL: 'https://flutter-prep-25de4-default-rtdb.firebaseio.com',
-    storageBucket: 'flutter-prep-25de4.appspot.com',
+    apiKey: 'apiKey',
+    appId: 'appId',
+    messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    authDomain: 'authDomain',
+    databaseURL: 'databaseURL',
+    storageBucket: 'storageBucket',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB0miCp2Sm_Af9qwp1WYLOlw1JYOYumICk',
-    appId: '1:624054433644:android:f0b91070b297586f02e549',
-    messagingSenderId: '624054433644',
-    projectId: 'flutter-chat-app-c4435',
-    storageBucket: 'flutter-chat-app-c4435.appspot.com',
+    apiKey: 'apiKey',
+    appId: 'appId',
+    messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    storageBucket: 'storageBucket',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD_leMupQz69v5Msy78g3w1H_bIZvgEitc',
-    appId: '1:624054433644:ios:505974c4961adac502e549',
-    messagingSenderId: '624054433644',
-    projectId: 'flutter-chat-app-c4435',
-    storageBucket: 'flutter-chat-app-c4435.appspot.com',
-    iosBundleId: 'com.example.chatApp',
+    apiKey: 'apiKey',
+    appId: 'appId',
+    messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    storageBucket: 'storageBucket',
+    iosBundleId: 'iosBundleId',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDokDVyu-60-d_Ca80ZCaErByAYP6UBZXk',
-    appId: '1:1021425447109:ios:ad63443a6e260a7c6cc0ac',
-    messagingSenderId: '1021425447109',
-    projectId: 'flutter-prep-25de4',
-    databaseURL: 'https://flutter-prep-25de4-default-rtdb.firebaseio.com',
-    storageBucket: 'flutter-prep-25de4.appspot.com',
-    iosBundleId: 'com.example.chatApp',
+    apiKey: 'apiKey',
+    appId: 'appId',
+    messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    databaseURL: 'databaseURL',
+    storageBucket: 'storageBucket',
+    iosBundleId: 'iosBundleId',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBOppMSb0IcfmC72WeDO6RzXuNpMsrf-Po',
-    appId: '1:1021425447109:web:5d79bf848507876f6cc0ac',
-    messagingSenderId: '1021425447109',
-    projectId: 'flutter-prep-25de4',
-    authDomain: 'flutter-prep-25de4.firebaseapp.com',
-    databaseURL: 'https://flutter-prep-25de4-default-rtdb.firebaseio.com',
-    storageBucket: 'flutter-prep-25de4.appspot.com',
+    apiKey: 'apiKey',
+    appId: 'appId',
+    messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    authDomain: 'authDomain',
+    databaseURL: 'databaseURL',
+    storageBucket: 'storageBucket',
   );
 
 }
